@@ -20,7 +20,7 @@ It uses JSON for data storage and the **Faker** library to generate realistic fa
 ## 🛠️ Technologies
 
 - Python 3.10+  
-- Faker library  
+- Faker library  -> "https://github.com/joke2k/faker"
 - JSON for simple storage  
 - Object-oriented principles  
 - Enum for safe field selection  
