@@ -1,0 +1,65 @@
+[
+  {
+    "seller_id": 3,
+    "country": "Saint Kitts and Nevis",
+    "firstName": "Renee",
+    "lastName": "Walter",
+    "product": "1TN5775"
+  },
+  {
+    "seller_id": 0,
+    "country": "Canada",
+    "firstName": "Arthur",
+    "lastName": "Stone",
+    "product": "766 9565"
+  },
+  {
+    "seller_id": 1,
+    "country": "Germany",
+    "firstName": "Mark",
+    "lastName": "Gonzales",
+    "product": "OSN 568"
+  },
+  {
+    "seller_id": 9,
+    "country": "Bhutan",
+    "firstName": "Kathleen",
+    "lastName": "Carpenter",
+    "product": "251KW"
+  },
+  {
+    "seller_id": 0,
+    "country": "Turkey",
+    "firstName": "Arda",
+    "lastName": "Osborne",
+    "product": "72PL0"
+  },
+  {
+    "seller_id": 5,
+    "country": "Any Country",
+    "firstName": "Joe",
+    "lastName": "Martin",
+    "product": "176SW"
+  },
+  {
+    "seller_id": 4,
+    "country": "Malaysia",
+    "firstName": "Sean",
+    "lastName": "Sloan",
+    "product": "5-84599"
+  },
+  {
+    "seller_id": 5,
+    "country": "Canada",
+    "firstName": "Steven",
+    "lastName": "Espinoza",
+    "product": "96-IL44"
+  },
+  {
+    "seller_id": 7,
+    "country": "Kyrgyz Republic",
+    "firstName": "Larry",
+    "lastName": "David",
+    "product": "TIG 085"
+  }
+]
